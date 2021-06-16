@@ -1,5 +1,10 @@
 <html>
 
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <title>Página Inicial (Conhecimentoonline.me)</title>
+</head>
+
 <body>
     <h1>Bem-Vindo</h1>
     <p>Olá, este site é exclusivo para você que quer aprende mais, aqui temos conteúdos exclusivos que vão te ajudar na sua jornada. Aproveite!</p>
